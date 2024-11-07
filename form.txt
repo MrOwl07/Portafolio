@@ -5,68 +5,19 @@ FORMULARIO
 j@2a.cv
 Como estas?
 
+FORMULARIO
+nuevo@123.com
+Esto es una prueba
 
 FORMULARIO
-j@2a.cv
-Como estas?
-
+pepito123@gmail.com
+esta interesante el portafolio
 FORMULARIO
-None
-None
+pepito123@gmail.com
+esta interesante el portafolio
 FORMULARIO
-None
-None
+pepito123@gmail.com
+esta interesante el portafolio
 FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
-FORMULARIO
-None
-None
+pepito123@gmail.com
+Hola el perfil ta piola
